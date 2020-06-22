@@ -9,4 +9,5 @@ In the static version of the app the components are built without any user inter
 ## With State
 Contains a basic state passed as props around the app. No interactivity.
 
+... associated with: https://courses.thinkful.com/react-v1/checkpoint/13 (half way down the page)
 
