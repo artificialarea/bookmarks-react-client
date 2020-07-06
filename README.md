@@ -12,4 +12,5 @@ Contains a basic state passed as props around the app. No interactivity.
 ## With interactivity
 Event handlers are added to components and callbacks are passed via props to the components that need them.
 
+... associated with: https://courses.thinkful.com/react-v1/checkpoint/13 (half way down the page)
 
